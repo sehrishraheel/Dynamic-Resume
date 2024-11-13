@@ -1,5 +1,5 @@
 // Get refrences to the distance area
-const form= document.getElementById('resume-form') as HTMLFormElement;
+const form = document.getElementById('resume-form') as HTMLFormElement;
 const resumeDisplayElement = document.getElementById('resume-display') as HTMLDivElement
 
 // Handle form submission
